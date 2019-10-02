@@ -1,0 +1,14 @@
+{
+    "name": "detect-face",
+    "version": "1.0.0",
+    "description": "None",
+    "author": "WesleyKhoiVo",
+    "engines": {
+        "node": "10.15.3"
+    },
+    "dependencies": {
+        "package.json": "^2.0.1",
+        "watson-developer-cloud": "^4.0.1"
+    },
+    "main": "app.js"
+}
